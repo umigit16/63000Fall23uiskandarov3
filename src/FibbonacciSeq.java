@@ -17,7 +17,8 @@ public class FibbonacciSeq {
     }
 
     public static void main(String[] args) {
-        FibbonociNums(5);
+        FibbonociNums (5);
+        FibbonociNums(7);
     }
 
 
