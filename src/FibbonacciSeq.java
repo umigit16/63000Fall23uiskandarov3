@@ -21,6 +21,7 @@ public class FibbonacciSeq {
         FibbonociNums(7);
         FibbonociNums(8);
         FibbonociNums(9);
+        FibbonociNums(10);
 
     }
 
